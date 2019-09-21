@@ -13,4 +13,4 @@ After compilation, all that is necessary is that you have the "guidList.txt" fil
 
 ## Known issue
 If you are using calendar elements, the "jotform.forms.js" file requires a simple fix.
-The file expects you to have an ID in the input field composed of numbers. You will have to find the function that checks for that and replace the regets `[0-9]` with just `.`
+The file expects you to have an ID in the input field composed of numbers. You will have to find the function that checks for that and replace the regex `[0-9]` with just `.`
