@@ -1,6 +1,6 @@
 # JotForm-Humanising-Script
 
-This is merely a script that I developed during work to help people who used JotForms as a tool more amicable.
+This is merely a script that I developed during work to make JotForms more amicable for the people who use it.
 It makes all inputs have more readable variables names, it downloads all Javascript and CSS files to a local folders, backups the original file, can add in custom classes, uniquely identifies every input and logs the entire process so you know what went on.
 
 ## Instructions
